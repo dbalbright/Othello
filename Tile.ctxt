@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=player
+comment0.target=void\ setState(int)
+comment1.params=
+comment1.target=int\ state()
+comment2.params=
+comment2.target=void\ flip()
+comment3.params=p
+comment3.target=boolean\ isOpp(int)
+comment4.params=
+comment4.target=java.lang.String\ toString()
+numComments=5

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=height\ width
+comment0.target=GameBoard(int,\ int)
+comment1.params=player
+comment1.target=int\ count(int)
+comment2.params=player\ x\ y
+comment2.target=void\ place(int,\ int,\ int)
+comment3.params=p\ x\ y
+comment3.target=boolean\ isLegal(int,\ int,\ int)
+comment4.params=p\ x\ y
+comment4.target=void\ flanks(int,\ int,\ int)
+comment5.params=p
+comment5.target=int\ pConvert(int)
+numComments=6
